@@ -1,0 +1,56 @@
+
+.signupbox{
+    border: 3px solid black;
+    justify-content: center;
+    height: 500px;
+    width: 25%;
+    margin-left:24rem;
+    margin-top: 5rem;
+    margin-right: 20rem;
+    padding-left: 17rem;
+    padding-right: 4rem;  
+    box-shadow: 35px 35px 45px rgb(76, 76, 76);  
+    border-radius: 2rem;
+   background: #edadf1;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ed6161, #500456);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f0a27e, #763805); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+}
+.content1{
+    margin-top: 4.5rem;
+    margin-left: 2rem; 
+}
+.content2{
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+}
+.search-input{
+    width: 400px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-left: -9rem;
+    background-color: rgb(255, 255, 254);
+    border-radius: 2rem;
+}
+.signin{
+    border: 1px;
+    border-radius: 5rem;
+    background-color:#ddc5b1;
+    color: #473923;
+    transform: all 0.1s;
+    font-size: 1.5rem;
+    font-weight:600 ;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 3.3rem;
+    margin-left: 1.1rem;
+    justify-content: center;
+    justify-items: center;
+    padding-left: 0.2rem;
+    padding-right: 1.2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    max-width: fit-content;
+}
